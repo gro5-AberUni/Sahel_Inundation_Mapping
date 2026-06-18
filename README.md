@@ -37,6 +37,7 @@ The scripts used for post-classification refinement are included in this directo
 * python 01_waterFrequency_RIOS_TS.py
 * python 02_genPostClassRefinementJob.py
 * bash recodeJobDev
+* python 04_inunFrequency_RIOS_TS_Mod.py
 * 
 
 In addition, auxiliary datasets are required to run the post-classification process, which can be found on Zenodo at the following location:
