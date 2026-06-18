@@ -34,7 +34,10 @@ The file `perform_analysis_opt.py` performs the actual classification on the out
 
 The scripts used for post-classification refinement are included in this directory and should be run in the following order:
 
-* 01_waterFrequency_RIOS_TS.py
+* python 01_waterFrequency_RIOS_TS.py
+* python 02_genPostClassRefinementJob.py
+* bash recodeJobDev
+* 
 
 In addition, auxiliary datasets are required to run the post-classification process, which can be found on Zenodo at the following location:
 
