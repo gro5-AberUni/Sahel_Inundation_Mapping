@@ -36,7 +36,7 @@ The scripts used for post-classification refinement are included in this directo
 * python 02_genPostClassRefinementJob.py
 * bash recodeJobDev
 * python 04_inunFrequency_RIOS_TS_Mod.py
-* 
+* python 05_gen_InunTS_Refinement_apply_Clump.py
 
 In addition, auxiliary datasets are required to run the post-classification process, which can be found on Zenodo at the following location:
 
